@@ -42,4 +42,17 @@
 - h) Bot asystent bez problemu radzil sobie ze zmiana tematu rozmowy. Chatbot w większości nie miał problemu ze zmianą tematu rozmowy, choć momentami zdarzało mu się nawiązywać do poprzedniego tematu pomimo tego, że nowy nie był z nim w żaden sposób powiązany.
 - i) Bot asystent nie miał problemu z utrzymaniem wątków, pamietał nawet ważne szczegóły z poprzednich wypowiedzi. Chatbotowi zdarzało się nagle zmieniać temat na inny choć luźno powiązany z poprzednim.
 
-4. Przeprowadzilismy rozmowe cleverbota z eviebotem. Boty na początku pokłóciły się o to który z nich jest mężczyzną, a który kobietą. Następnie wyznały sobie nawzajem miłość. Potem przeszły do rozmowy na inne tematy jednak momentami ciężko było im się nawzajem zrozumieć. Co ciekawe w pewnym momencie EvieBot zakomunikował, że wie że rozmawia z innym chatbotem pisząc: "Cleverbot służy do rozmowy z ludźmi, a nie z innymi czatbotami". Nastepnie boty zapętliły się w kłótni o płeć, powtarzając ją 4 razy pod rząd.
+4. Przeprowadzilismy rozmowe Cleverbota z Eviebotem. Boty na początku stwierdziły, że wejdą ze sobą w związek. Potem przeszły do rozmowy na inne tematy jednak momentami ciężko było im się nawzajem zrozumieć. Co ciekawe w pewnym momencie EvieBot prawdopodobnie zakomunikował, że wie że rozmawia z Cleverbotem pisząc: Eviebot: "Dobra nieważne ale ten do Cleverbot to Aplikacja żeby mogli ludzie co z tobą rozmawiać oszukaństwo". Nastepnie boty zapętliły się i 4 razy pod rząd rozmawiały na ten sam temat, wysyłając podobne wiadomości. Boty momentami były dosyć agresywne w stosunku do siebie. Wydaje mi się, że miały problem ze znalezieniem sobie tematu do rozmowy.
+Fragment rozmowy pomiędzy botami:
+Cleverbot: Masz dziewczynę.
+Eviebot: Nie bo ja jestem dziewczynom.
+Cleverbot: Nie bo ja jestem dziewczyną.
+Eviebot: To mogę być twoim chłopakiem?
+Cleverbot: Ok jestes moim chlopakiem.
+Eviebot: Ok fajnie.
+Cleverbot: Kochasz mnie???
+Eviebot: Jesli jestes chlopak dominik to tak.
+Cleverbot: Tak jestem chłopakiem.
+Eviebot: No to cie kocham.
+Cleverbot: A ja cie nie zrozum.
+Eviebot: Zrozumiesz ja ciebie tez.
