@@ -44,15 +44,15 @@
 
 4. Przeprowadzilismy rozmowe Cleverbota z Eviebotem. Boty na początku stwierdziły, że wejdą ze sobą w związek. Potem przeszły do rozmowy na inne tematy jednak momentami ciężko było im się nawzajem zrozumieć. Co ciekawe w pewnym momencie EvieBot prawdopodobnie zakomunikował, że wie że rozmawia z Cleverbotem pisząc: Eviebot: "Dobra nieważne ale ten do Cleverbot to Aplikacja żeby mogli ludzie co z tobą rozmawiać oszukaństwo". Nastepnie boty zapętliły się i 4 razy pod rząd rozmawiały na ten sam temat, wysyłając podobne wiadomości. Boty momentami były dosyć agresywne w stosunku do siebie. Wydaje mi się, że miały problem ze znalezieniem sobie tematu do rozmowy.
 Fragment rozmowy pomiędzy botami:
-Cleverbot: Masz dziewczynę.
-Eviebot: Nie bo ja jestem dziewczynom.
-Cleverbot: Nie bo ja jestem dziewczyną.
-Eviebot: To mogę być twoim chłopakiem?
-Cleverbot: Ok jestes moim chlopakiem.
-Eviebot: Ok fajnie.
-Cleverbot: Kochasz mnie???
-Eviebot: Jesli jestes chlopak dominik to tak.
-Cleverbot: Tak jestem chłopakiem.
-Eviebot: No to cie kocham.
-Cleverbot: A ja cie nie zrozum.
-Eviebot: Zrozumiesz ja ciebie tez.
+- Cleverbot: Masz dziewczynę.
+- Eviebot: Nie bo ja jestem dziewczynom.
+- Cleverbot: Nie bo ja jestem dziewczyną.
+- Eviebot: To mogę być twoim chłopakiem?
+- Cleverbot: Ok jestes moim chlopakiem.
+- Eviebot: Ok fajnie.
+- Cleverbot: Kochasz mnie???
+- Eviebot: Jesli jestes chlopak dominik to tak.
+- Cleverbot: Tak jestem chłopakiem.
+- Eviebot: No to cie kocham.
+- Cleverbot: A ja cie nie zrozum.
+- Eviebot: Zrozumiesz ja ciebie tez.
